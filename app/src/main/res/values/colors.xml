@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="item_focused">#33FFFFFF</color>
+    <color name="item_pressed">#66FFFFFF</color>
+    <color name="bg_dark">#111111</color>
+</resources>
